@@ -10,3 +10,5 @@ CustomCSS's for everything I use.
     - [nerd font](https://github.com/TRC-Loop/Theming/tree/main/zsh/nerdfonts)
 - [Flame](https://github.com/TRC-Loop/Theming/tree/main/flame)
     - [Custom CSS](https://github.com/TRC-Loop/Theming/blob/main/flame/custom.css)
+- [Neovim (nvim) (external)](https://github.com/TRC-Loop/neovim-config)
+- [Yazi (external)](https://github.com/TRC-Loop/yazi-config)
