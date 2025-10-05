@@ -1,7 +1,4 @@
-# CustomCSS
-CustomCSS's for everything I use.
-
-## Table of Contents
+# Table of Contents
 
 - [Zsh](https://github.com/TRC-Loop/Theming/tree/main/zsh)
     - [terminal](https://github.com/TRC-Loop/Theming/tree/main/zsh/terminal)
