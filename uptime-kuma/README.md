@@ -10,3 +10,7 @@ https://uptime.kuma.pet
 - Go to your Statuspage
 - Press Edit
 - Paste the CSS in the *Custom CSS* Box
+
+# Live Example
+
+https://uptime.gmrze.net/status/server1
